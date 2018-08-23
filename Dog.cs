@@ -35,7 +35,7 @@ namespace ConsoleApp1
             Console.WriteLine(name + " liked that a lot");
             Console.WriteLine(name + "'s happiness is now " + happiness.ToString());
             Console.ReadLine();
-            Console.WriteLine("poop");
+            Console.WriteLine("I am now pooping.");
             Console.ReadLine();
         }
     }
